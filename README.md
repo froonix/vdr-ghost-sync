@@ -1,2 +1,3 @@
 # vdr-ghost-sync
 Old helper script, not maintained anymore.
+Bad coding style and dangerous methods...
